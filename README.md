@@ -189,7 +189,9 @@ Shared Web Hosting
     └── MariaDB
 ```
 
-The current online version is used as a **live demo and testing environment**.
+The current online version is used as a **live demo and testing environment**. 
+
+[Observe](https://alirezanajafi.freehosting.dev/wordpresss/)
 
 A VPS-based production deployment may be considered in the future if additional control, performance, or scalability is required.
 
